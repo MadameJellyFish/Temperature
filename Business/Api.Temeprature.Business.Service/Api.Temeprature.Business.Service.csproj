@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.35.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Api.Temeprature.Common\Api.Temeprature.Common.csproj" />
+    <ProjectReference Include="..\..\Data\Api.Temperature.Data.Repository.Contract\Api.Temperature.Data.Repository.Contract.csproj" />
+    <ProjectReference Include="..\Api.Temeprature.Business.DTO\Api.Temeprature.Business.DTO.csproj" />
+    <ProjectReference Include="..\Api.Temeprature.Business.Mapper\Api.Temeprature.Business.Mapper.csproj" />
+    <ProjectReference Include="..\Api.Temeprature.Business.Service.Contract\Api.Temeprature.Business.Service.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

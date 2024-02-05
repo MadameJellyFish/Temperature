@@ -1,0 +1,12 @@
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\bin\Debug\net6.0\Api.Temeprature.Business.DTO.deps.json
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\bin\Debug\net6.0\Api.Temeprature.Business.DTO.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\bin\Debug\net6.0\Api.Temeprature.Business.DTO.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\Api.Temeprature.Business.DTO.csproj.AssemblyReference.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\Api.Temeprature.Business.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\Api.Temeprature.Business.DTO.AssemblyInfoInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\Api.Temeprature.Business.DTO.AssemblyInfo.cs
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\Api.Temeprature.Business.DTO.csproj.CoreCompileInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\Api.Temeprature.Business.DTO.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\refint\Api.Temeprature.Business.DTO.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\Api.Temeprature.Business.DTO.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.DTO\obj\Debug\net6.0\ref\Api.Temeprature.Business.DTO.dll

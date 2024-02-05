@@ -1,0 +1,12 @@
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\bin\Debug\net6.0\Api.Temeprature.Common.deps.json
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\bin\Debug\net6.0\Api.Temeprature.Common.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\bin\Debug\net6.0\Api.Temeprature.Common.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\Api.Temeprature.Common.csproj.AssemblyReference.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\Api.Temeprature.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\Api.Temeprature.Common.AssemblyInfoInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\Api.Temeprature.Common.AssemblyInfo.cs
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\Api.Temeprature.Common.csproj.CoreCompileInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\Api.Temeprature.Common.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\refint\Api.Temeprature.Common.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\Api.Temeprature.Common.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Common\Api.Temeprature.Common\obj\Debug\net6.0\ref\Api.Temeprature.Common.dll

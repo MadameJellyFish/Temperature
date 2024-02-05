@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.Temperature.props" />
+</Project>

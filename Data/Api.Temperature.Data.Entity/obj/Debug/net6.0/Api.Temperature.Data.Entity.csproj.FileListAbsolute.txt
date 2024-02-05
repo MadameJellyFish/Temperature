@@ -1,0 +1,14 @@
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\bin\Debug\net6.0\Api.Temperature.Data.Entity.deps.json
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\bin\Debug\net6.0\Api.Temperature.Data.Entity.runtimeconfig.json
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\bin\Debug\net6.0\Api.Temperature.Data.Entity.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\bin\Debug\net6.0\Api.Temperature.Data.Entity.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.AssemblyInfo.cs
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\refint\Api.Temperature.Data.Entity.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\Api.Temperature.Data.Entity.genruntimeconfig.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Entity\obj\Debug\net6.0\ref\Api.Temperature.Data.Entity.dll

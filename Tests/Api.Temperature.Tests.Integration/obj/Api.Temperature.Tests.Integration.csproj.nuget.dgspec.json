@@ -1,0 +1,1006 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Integration\\Api.Temperature.Tests.Integration.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Api.Temperature\\Api.Temperature.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Api.Temperature\\Api.Temperature.csproj",
+        "projectName": "Api.Temperature",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Api.Temperature\\Api.Temperature.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Api.Temperature\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\Api.Temeprature.Common.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\Api.Temeprature.Common.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\Api.Temeprature.IoC.Application.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\Api.Temeprature.IoC.Application.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj",
+        "projectName": "Api.Temeprature.Business.DTO",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Mapper\\Api.Temeprature.Business.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Mapper\\Api.Temeprature.Business.Mapper.csproj",
+        "projectName": "Api.Temeprature.Business.Mapper",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Mapper\\Api.Temeprature.Business.Mapper.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service.Contract\\Api.Temeprature.Business.Service.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service.Contract\\Api.Temeprature.Business.Service.Contract.csproj",
+        "projectName": "Api.Temeprature.Business.Service.Contract",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service.Contract\\Api.Temeprature.Business.Service.Contract.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service\\Api.Temeprature.Business.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service\\Api.Temeprature.Business.Service.csproj",
+        "projectName": "Api.Temeprature.Business.Service",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service\\Api.Temeprature.Business.Service.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.DTO\\Api.Temeprature.Business.DTO.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Mapper\\Api.Temeprature.Business.Mapper.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Mapper\\Api.Temeprature.Business.Mapper.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service.Contract\\Api.Temeprature.Business.Service.Contract.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service.Contract\\Api.Temeprature.Business.Service.Contract.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\Api.Temeprature.Common.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\Api.Temeprature.Common.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\Api.Temperature.Data.Repository.Contract.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\Api.Temperature.Data.Repository.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.35.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\Api.Temeprature.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\Api.Temeprature.Common.csproj",
+        "projectName": "Api.Temeprature.Common",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\Api.Temeprature.Common.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Common\\Api.Temeprature.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\Api.Temperature.Data.Context.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\Api.Temperature.Data.Context.Contract.csproj",
+        "projectName": "Api.Temperature.Data.Context.Contract",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\Api.Temperature.Data.Context.Contract.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\Api.Temperature.Data.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\Api.Temperature.Data.Context.csproj",
+        "projectName": "Api.Temperature.Data.Context",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\Api.Temperature.Data.Context.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\Api.Temperature.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\Api.Temperature.Data.Context.Contract.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj",
+        "projectName": "Api.Temperature.Data.Entity",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\Api.Temperature.Data.Repository.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\Api.Temperature.Data.Repository.Contract.csproj",
+        "projectName": "Api.Temperature.Data.Repository.Contract",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\Api.Temperature.Data.Repository.Contract.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository\\Api.Temperature.Data.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository\\Api.Temperature.Data.Repository.csproj",
+        "projectName": "Api.Temperature.Data.Repository",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository\\Api.Temperature.Data.Repository.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\Api.Temperature.Data.Context.Contract.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context.Contract\\Api.Temperature.Data.Context.Contract.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\Api.Temperature.Data.Context.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\Api.Temperature.Data.Context.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Entity\\Api.Temperature.Data.Entity.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\Api.Temperature.Data.Repository.Contract.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository.Contract\\Api.Temperature.Data.Repository.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\Api.Temeprature.IoC.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\Api.Temeprature.IoC.Application.csproj",
+        "projectName": "Api.Temeprature.IoC.Application",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\Api.Temeprature.IoC.Application.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service\\Api.Temeprature.Business.Service.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Business\\Api.Temeprature.Business.Service\\Api.Temeprature.Business.Service.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\Api.Temperature.Data.Context.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Context\\Api.Temperature.Data.Context.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository\\Api.Temperature.Data.Repository.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Data\\Api.Temperature.Data.Repository\\Api.Temperature.Data.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj",
+        "projectName": "Api.Temeprature.IoC.Tests",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\Api.Temeprature.IoC.Application.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Application\\Api.Temeprature.IoC.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Common\\Api.Temperature.Tests.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Common\\Api.Temperature.Tests.Common.csproj",
+        "projectName": "Api.Temperature.Tests.Common",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Common\\Api.Temperature.Tests.Common.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Integration\\Api.Temperature.Tests.Integration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Integration\\Api.Temperature.Tests.Integration.csproj",
+        "projectName": "Api.Temperature.Tests.Integration",
+        "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Integration\\Api.Temperature.Tests.Integration.csproj",
+        "packagesPath": "C:\\Users\\anemi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Integration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Api.Temperature\\Api.Temperature.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Api.Temperature\\Api.Temperature.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\IoC\\Api.Temeprature.IoC.Tests\\Api.Temeprature.IoC.Tests.csproj"
+              },
+              "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Common\\Api.Temperature.Tests.Common.csproj": {
+                "projectPath": "C:\\Users\\anemi\\Documents\\CDA simplon\\DevOps\\Temperature\\Tests\\Api.Temperature.Tests.Common\\Api.Temperature.Tests.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

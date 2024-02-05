@@ -1,0 +1,17 @@
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\bin\Debug\net6.0\Api.Temperature.Data.Context.deps.json
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\bin\Debug\net6.0\Api.Temperature.Data.Context.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\bin\Debug\net6.0\Api.Temperature.Data.Context.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\bin\Debug\net6.0\Api.Temperature.Data.Context.Contract.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\bin\Debug\net6.0\Api.Temperature.Data.Entity.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\bin\Debug\net6.0\Api.Temperature.Data.Context.Contract.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\bin\Debug\net6.0\Api.Temperature.Data.Entity.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.csproj.AssemblyReference.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.AssemblyInfoInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.AssemblyInfo.cs
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.csproj.CoreCompileInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.csproj.CopyComplete
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\refint\Api.Temperature.Data.Context.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\Api.Temperature.Data.Context.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Context\obj\Debug\net6.0\ref\Api.Temperature.Data.Context.dll

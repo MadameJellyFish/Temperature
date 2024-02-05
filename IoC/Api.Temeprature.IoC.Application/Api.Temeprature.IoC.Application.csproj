@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business\Api.Temeprature.Business.Service\Api.Temeprature.Business.Service.csproj" />
+    <ProjectReference Include="..\..\Data\Api.Temperature.Data.Context\Api.Temperature.Data.Context.csproj" />
+    <ProjectReference Include="..\..\Data\Api.Temperature.Data.Repository\Api.Temperature.Data.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

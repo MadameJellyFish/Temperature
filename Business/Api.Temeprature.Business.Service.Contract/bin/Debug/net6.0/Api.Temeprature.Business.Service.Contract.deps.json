@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Api.Temeprature.Business.Service.Contract/1.0.0": {
+        "dependencies": {
+          "Api.Temeprature.Business.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Api.Temeprature.Business.Service.Contract.dll": {}
+        }
+      },
+      "Api.Temeprature.Business.DTO/1.0.0": {
+        "runtime": {
+          "Api.Temeprature.Business.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Api.Temeprature.Business.Service.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Api.Temeprature.Business.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

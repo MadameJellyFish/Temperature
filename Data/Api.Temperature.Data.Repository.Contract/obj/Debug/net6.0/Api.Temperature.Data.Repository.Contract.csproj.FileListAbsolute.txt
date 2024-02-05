@@ -1,0 +1,15 @@
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\bin\Debug\net6.0\Api.Temperature.Data.Repository.Contract.deps.json
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\bin\Debug\net6.0\Api.Temperature.Data.Repository.Contract.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\bin\Debug\net6.0\Api.Temperature.Data.Repository.Contract.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\bin\Debug\net6.0\Api.Temperature.Data.Entity.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\bin\Debug\net6.0\Api.Temperature.Data.Entity.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.csproj.AssemblyReference.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.AssemblyInfoInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.AssemblyInfo.cs
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.csproj.CoreCompileInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.csproj.CopyComplete
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\refint\Api.Temperature.Data.Repository.Contract.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\Api.Temperature.Data.Repository.Contract.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Data\Api.Temperature.Data.Repository.Contract\obj\Debug\net6.0\ref\Api.Temperature.Data.Repository.Contract.dll

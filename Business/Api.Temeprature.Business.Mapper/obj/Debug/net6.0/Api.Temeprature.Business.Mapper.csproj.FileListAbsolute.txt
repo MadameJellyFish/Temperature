@@ -1,0 +1,17 @@
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\bin\Debug\net6.0\Api.Temeprature.Business.Mapper.deps.json
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\bin\Debug\net6.0\Api.Temeprature.Business.Mapper.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\bin\Debug\net6.0\Api.Temeprature.Business.Mapper.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\bin\Debug\net6.0\Api.Temeprature.Business.DTO.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\bin\Debug\net6.0\Api.Temperature.Data.Entity.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\bin\Debug\net6.0\Api.Temperature.Data.Entity.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\bin\Debug\net6.0\Api.Temeprature.Business.DTO.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.csproj.AssemblyReference.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.AssemblyInfoInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.AssemblyInfo.cs
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.csproj.CopyComplete
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\refint\Api.Temeprature.Business.Mapper.dll
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\Api.Temeprature.Business.Mapper.pdb
+C:\Users\anemi\Documents\CDA simplon\DevOps\Temperature\Business\Api.Temeprature.Business.Mapper\obj\Debug\net6.0\ref\Api.Temeprature.Business.Mapper.dll

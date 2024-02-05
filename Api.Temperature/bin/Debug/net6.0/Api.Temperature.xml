@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.Temperature</name>
+    </assembly>
+    <members>
+        <member name="F:Api.Temperature.Controllers.DepartementsController._departementService">
+            <summary>
+             Le service de gestion des departements
+            </summary>
+        </member>
+        <member name="M:Api.Temperature.Controllers.DepartementsController.#ctor(Api.Temeprature.Business.Service.Contract.IDepartementService)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Api.Temperature.Controllers.DepartementsController"/> class.
+            </summary>
+            <param name="departementService">The departement service.</param>
+        </member>
+        <member name="F:Api.Temperature.Controllers.UnitesController._uniteService">
+            <summary>
+             Le service de gestion des unités de mesure
+            </summary>
+        </member>
+        <member name="M:Api.Temperature.Controllers.UnitesController.#ctor(Api.Temeprature.Business.Service.Contract.IUniteService)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Api.Temperature.Controllers.UnitesController"/> class.
+            </summary>
+            <param name="uniteService">The unite service.</param>
+        </member>
+        <member name="M:Api.Temperature.Controllers.UnitesController.GetUnitesAsync">
+            <summary>
+            Ressource pour récupérer la liste des unités de mesure.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Temperature.Controllers.UnitesController.CreateUniteAsync(Api.Temeprature.Business.DTO.UniteDTO)">
+            <summary>
+            Ressource pour créer une nouvelle unité de mesure.
+            </summary>
+            <param name="unite">les données de l'unité à créer</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Temperature.Controllers.UnitesController.UpdateUniteAsync(System.Int32,Api.Temeprature.Business.DTO.UniteDTO)">
+            <summary>
+            Ressource pour mettre à jour une unité de mesure.
+            </summary>
+            <param name="id">L'identifiant de l'unité.</param>
+            <param name="unite">les données modifiées.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Temperature.Controllers.UnitesController.DeleteUniteAsync(System.Int32)">
+            <summary>
+            Ressource pour supprimer une unité de mesure.
+            </summary>
+            <param name="id">L'identifiant de l'unité.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
